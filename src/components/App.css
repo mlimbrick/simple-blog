@@ -35,6 +35,10 @@ form textarea {
   width: 300px;
 }
 
+.App,
+article { background-image: radial-gradient(ghostwhite, steelblue);
+}
+
 nav,
 article {
   height: 100%;
@@ -51,7 +55,6 @@ nav p:hover {
 }
 
 article {
-  background-image: radial-gradient(ghostwhite, steelblue);
   overflow: scroll;
 }
 
